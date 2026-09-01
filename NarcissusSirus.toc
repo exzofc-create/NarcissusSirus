@@ -1,0 +1,36 @@
+## Interface: 30300
+## Version: 1.0.0
+## Title: NarcissusSirus
+## Notes: Полноэкранное окно персонажа для Sirus 3.3.5a. |n|cff959595Команда: /narci|r
+## Author: Lower
+## SavedVariables: NarcissusSirusDB
+## OptionalDeps: InspectEquip
+## X-License: MIT
+
+Core\Locale.lua
+Core\Init.lua
+Core\Utils.lua
+Core\ItemData.lua
+Core\StatPriority.lua
+
+Modules\TooltipScanner.lua
+Modules\ItemLevel.lua
+Modules\EnchantInfo.lua
+Modules\StatsPanel.lua
+Modules\TitleManager.lua
+Modules\MinimapButton.lua
+Modules\ScreenshotTool.lua
+Modules\CharPreview.lua
+Modules\ItemComparison.lua
+Modules\OutfitManager.lua
+Modules\EquipInfo.lua
+Modules\Enhancements.lua
+Modules\TalentPanel.lua
+Modules\ProfessionsPanel.lua
+
+UI\Styling.lua
+UI\UIWidgets.lua
+UI\CharacterFrame.lua
+UI\NarciUI.lua
+
+NarcissusSirus.lua
